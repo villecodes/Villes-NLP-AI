@@ -1,0 +1,20 @@
+{
+  "name": "villes-nlp-ai",
+  "version": "0.0.1",
+  "description": "My own NLP AI built using markovian-nlp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "keywords": [
+    "AI",
+    "talking",
+    "english"
+  ],
+  "author": "villecodes.com",
+  "license": "ISC",
+  "devDependencies": {
+    "markovian-nlp": "^5.0.1"
+  },
+  "dependencies": {}
+}
