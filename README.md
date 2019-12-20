@@ -1,7 +1,7 @@
 # Ville's NLP AI
 
 ## Thanks
-* Thanks @Stassi.
+* Thanks [@Stassi](https://github.com/stassi).
 
 ## Get started
 * Run ``` npm install ```.
