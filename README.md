@@ -1,5 +1,8 @@
 # Ville's NLP AI
 
+## Thanks
+* Thanks @Stassi.
+
 ## Get started
 * Run ``` npm install ```.
 * Run ``` node index.js ```.

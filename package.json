@@ -4,7 +4,7 @@
   "description": "My own NLP AI built using markovian-nlp.",
   "main": "index.js",
   "scripts": {
-    "test": "nodemon index.js"
+    "test": "nodemon index_web.js"
   },
   "keywords": [
     "AI",
@@ -14,7 +14,11 @@
   "author": "villecodes.com",
   "license": "ISC",
   "devDependencies": {
-    "markovian-nlp": "^5.0.1"
+    "cors": "^2.8.5",
+    "markovian-nlp": "^7.0.2",
+    "talkify-tts": "^2.7.5"
   },
-  "dependencies": {}
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
